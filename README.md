@@ -2,6 +2,6 @@
 
 ### Hello 👋
 
-📫 Hangzhou, China 💻 Web Developer
+📫 China 💻 Developer
 
 Find me at [sylingd.com](https://www.sylingd.com)
